@@ -1,0 +1,76 @@
+{
+"response": [
+{
+"creationDate": "2020-04-27",
+"instances": [
+{
+"name": "Lender-Prod-Proxy-machine",
+"instanceId": "i-0277e765e1f63469b",
+"imageId": "ami-01b8d0884f38e37b4"
+},
+{
+"name": "Lender-Public-Prod1",
+"instanceId": "i-016b7a4767f40fdf2",
+"imageId": "ami-00f70e9e272370a29"
+}
+]
+},
+{
+"creationDate": "2020-04-28",
+"instances": [
+{
+"name": "",
+"instanceId": "i-0382909c33b30f0af",
+"imageId": "ami-075b722e455e298b4"
+}
+]
+},
+{
+"creationDate": "2020-04-29",
+"instances": [
+{
+"name": "Lender-Prod-Proxy2",
+"instanceId": "i-0fc9243a396849ae3",
+"imageId": "ami-0b44050b2d893d5f7"
+}
+]
+},
+{
+"creationDate": "2020-04-30",
+"instances": []
+},
+{
+"creationDate": "2020-05-01",
+"instances": [
+{
+"name": "Rupeek-VPN-Pritunl-2",
+"instanceId": "i-0fd855f340ef1d0d0",
+"imageId": "ami-05695932c5299858a"
+},
+{
+"name": "Rupeek-VPN-Pritunl-1",
+"instanceId": "i-07ecd1678b113b16b",
+"imageId": "ami-05695932c5299858a"
+},
+{
+"name": "manik test vpc private server",
+"instanceId": "i-0c69581fe95dfda94",
+"imageId": "ami-0470e33cd681b2476"
+},
+{
+"name": "Rupeek-VPN-Pritunl-3",
+"instanceId": "i-0fa430784e775b0ff",
+"imageId": "ami-04b2519c83e2a7ea5"
+}
+]
+},
+{
+"creationDate": "2020-05-02",
+"instances": []
+},
+{
+"creationDate": "2020-05-03",
+"instances": []
+}
+]
+}
